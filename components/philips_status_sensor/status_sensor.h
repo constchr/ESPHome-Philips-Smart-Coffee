@@ -6,7 +6,7 @@
 
 // Feel free to lower this, you might get some invalid intermittent state though
 #define REPEAT_REQUIREMENT 30
-#define BLINK_THRESHOLD 1500
+#define BLINK_THRESHOLD 750
 
 namespace esphome
 {
